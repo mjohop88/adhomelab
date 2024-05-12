@@ -2,7 +2,7 @@
 <h1>Active Directory HomeLab</h1>
 
 <h2>Description</h2>
-Project consists of simple Active Directory using Windows Server 2022 and Windows 11 eval versions running in Oracle VM VirtualBox and a PowerShell script to add ~1000 accounts. The purpose of this HomeLab is to gain hands on experience with Windows Server and Active Directory as well as create an environment for future use to develop cybersecurity skills.
+Project consists of simple Active Directory using Windows Server 2022 and Windows 11 eval versions running in Oracle VM VirtualBox and a PowerShell script to add ~1000 accounts. The purpose of this HomeLab is to gain hands on experience with Windows Server and Active Directory as well as create an environment for future use to develop cybersecurity skills. All passwords are Password1 for demonstration purposes only.
 <br />
 
 
@@ -25,6 +25,21 @@ Create Windows Server 2022 VM: <br/>
 <img src="https://i.imgur.com/bctwR15.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
 <img src="https://i.imgur.com/BRPCvu7.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
 <br />
+<br />
+Configure Windows Server 2022 VM: <br/>
+<img src="https://i.imgur.com/ZbICBDi.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+<img src="https://i.imgur.com/j9dhsYg.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+<img src="https://i.imgur.com/Sme6CeN.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+<img src="https://i.imgur.com/44CMUyL.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+<br />
+<br />
+Install Windows Server 2022 VM: <br/>
+ <img src="https://i.imgur.com/NOtjrV8.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+ <img src="https://i.imgur.com/7WbTqcr.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+ <img src="https://i.imgur.com/RE8L3Wd.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+ <img src="https://i.imgur.com/DaSadNU.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+ <img src="https://i.imgur.com/jpaiA9V.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
+ <img src="https://i.imgur.com/KnxZHKu.png" height="80%" width="80%" alt="AD HomeLab Steps"/>
 <br />
 
 </p>
